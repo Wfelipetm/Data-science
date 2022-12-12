@@ -19,5 +19,5 @@ a problemas reais, desenvolvi um pensamento crítico e habilidades de resoluçã
 ## Projetos:
 
 * **Python para análise de dados 🐼 pandas:**  https://github.com/Wfelipetm/Datasets_Pandas/blob/main/datasets_pandas.ipynb
-* **Data Science: Investigando o naufrágio do Titanic:**  https://github.com/Wfelipetm/Data_science/blob/main/Projetos/Titanic/Titanic.ipynb 
+* **Data Science: Investigando o naufrágio do Titanic:**  https://github.com/Wfelipetm/Data-science/blob/main/Projetos/Titanic/Titanic.ipynb
 ---
